@@ -1,0 +1,10 @@
+name: QuzaCore
+api: ["4.0.0"]
+version: "1.1.1"
+author: QuzaNetwork(OwoNico)
+authors:
+  - QuzaNetwork(OwoNico)
+  - QuzaNetwork(MaiPian)
+main: owonico\Main
+description: "QuzaNetwork offical practice core"
+website: "dsc.gg/quza"

@@ -1,0 +1,9 @@
+# QuzaCore Default Configs Files
+region: "Quza"
+
+password: "UXV6YU5ldHdvcmsyMDE4"
+
+resource-packs:
+  37e358bc-07f6-4afb-8522-69ba1fde1fb4: YB11vgKPQcgBXZF9DzwCKcZVULnBOd6e
+
+maintenance: false
